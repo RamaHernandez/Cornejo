@@ -30,7 +30,7 @@ export default function AboutPage() {
                 {/* Columna de imagen */}
                 <div className="lg:w-1/2">
                     <img
-                        src="/images/about-image.jpg"
+                        src="/images/about-image.JPG"
                         alt="Sobre mí"
                         className="rounded-lg shadow-lg object-cover w-full h-auto"
                     />
