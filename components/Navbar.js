@@ -21,7 +21,7 @@ export default function Navbar() {
                 <div className="text-center col-start-2">
                     <a href="#" className="text-white">
                         <h1 className="text-3xl font-bold">cornejo.</h1>
-                        <p className="text-sm font-light">Cinematographer/Director of Photography</p>
+                        <p className="text-sm font-light whitespace-nowrap">Director of Photography</p>
                     </a>
                 </div>
 
