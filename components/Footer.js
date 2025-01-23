@@ -13,6 +13,13 @@ export default function Footer() {
                 <p className="text-sm text-gray-400">
                     &copy; 2025 Pedro Cornejo. Todos los derechos reservados.
                 </p>
+                <a href="https://www.instagram.com/cornejodf" target="_blank" rel="noopener noreferrer">
+                    <img
+                        src="/images/instagram.png"
+                        alt="Instagram"
+                        className="w-7 h-6 mx-auto my-4 hover:scale-110 transition-transform"
+                    />
+                </a>
                 <p className="text-sm text-gray-400 mt-2">
                     Desarrollado por <a href="https://www.instagram.com/ramaahernandez" className="text-yellow-500 hover:underline">Ramiro Hernandez</a>.
                 </p>

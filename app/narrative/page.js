@@ -25,7 +25,7 @@ export default function NarrativePage() {
 
     return (
         <section id="narrative" className="bg-black text-white py-12 px-6">
-            <h1 className="text-4xl sm:text-5xl font-extrabold mb-8 text-center">
+            <h1 className="text-4xl sm:text-5xl font-extrabold mb-8 text-center font-smooch uppercase">
                 Narrative
             </h1>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">

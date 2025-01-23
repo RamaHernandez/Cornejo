@@ -41,7 +41,7 @@ export default function ContactPage() {
 
     return (
         <section id="contact" className="bg-black text-white min-h-screen flex flex-col items-center justify-center px-6 sm:px-12 py-12">
-            <h1 className="text-4xl sm:text-5xl font-extrabold mb-8 text-center">
+            <h1 className="text-4xl sm:text-5xl font-extrabold mb-8 text-center font-smooch uppercase">
                 Contact
             </h1>
             <form

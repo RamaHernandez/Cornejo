@@ -21,7 +21,7 @@ export default function Navbar() {
                 <div className="text-center col-start-2">
                     <a href="#" className="text-white">
                         <h1 className="text-3xl font-bold">cornejo.</h1>
-                        <p className="text-sm font-light whitespace-nowrap">Director of Photography</p>
+                        <p className="text-sm font-light pt-serif whitespace-nowrap">Director of Photography</p>
                     </a>
                 </div>
 
@@ -33,11 +33,11 @@ export default function Navbar() {
                         gap: "0.1rem", // Espaciado entre columnas y filas
                     }}
                 >
-                    <li><a href="#about" className="hover:text-yellow-500 transition">About</a></li>
-                    <li><a href="#narrative" className="hover:text-yellow-500 transition">Narrative</a></li>
-                    <li><a href="#advertising" className="hover:text-yellow-500 transition">Advertising</a></li>
-                    <li><a href="#music-videos" className="hover:text-yellow-500 transition">Music Videos</a></li>
-                    <li><a href="#contact" className="hover:text-yellow-500 transition">Contact</a></li>
+                    <li><a href="#about" className="hover:text-yellow-500 transition font-smooch">ABOUT</a></li>
+                    <li><a href="#narrative" className="hover:text-yellow-500 transition font-smooch">NARRATIVE</a></li>
+                    <li><a href="#advertising" className="hover:text-yellow-500 transition font-smooch">ADVERTISING</a></li>
+                    <li><a href="#music-videos" className="hover:text-yellow-500 transition font-smooch">MUSIC VIDEOS</a></li>
+                    <li><a href="#contact" className="hover:text-yellow-500 transition font-smooch">CONTACT</a></li>
                 </ul>
             </div>
 

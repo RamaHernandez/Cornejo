@@ -13,7 +13,7 @@ export default function MusicVideosPage() {
 
     return (
         <section id="music-videos" className="bg-black text-white py-12 px-6">
-            <h1 className="text-4xl sm:text-5xl font-extrabold mb-8 text-center">
+            <h1 className="text-4xl sm:text-5xl font-extrabold mb-8 text-center font-smooch uppercase">
                 Music Videos
             </h1>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
