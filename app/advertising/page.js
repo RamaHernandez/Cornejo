@@ -12,6 +12,7 @@ export default function AdvertisingPage() {
     }, []);
 
     const videos = [
+        "https://vimeo.com/1056470238",
         "https://vimeo.com/1014448175", // Primer video
         "https://vimeo.com/997849108",  // Segundo video
         "https://vimeo.com/916461459",  // Tercer video
@@ -19,7 +20,8 @@ export default function AdvertisingPage() {
         "https://vimeo.com/775634772",  // Quinto video
         "https://vimeo.com/846329663",  // Sexto video
         "https://vimeo.com/826907894",  // Séptimo video  
-        "https://vimeo.com/1011392873"  // Décimo video
+        "https://vimeo.com/1011392873"
+        // Décimo video
     ];
     const images = [
         { src: "/images/imagen1.png", alt: "Imagen 1" },

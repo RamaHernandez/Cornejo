@@ -61,7 +61,12 @@ export default function HomePage() {
 
       {/* Texto en primer plano */}
       <div className="relative z-20 flex flex-col items-center justify-center h-full text-center text-white px-4">
-
+        <h1 className="text-6xl sm:text-8xl lg:text-9xl font-extrabold leading-none tracking-tight">
+          cornejo.
+        </h1>
+        <p className="mt-4  text-lg sm:text-xl lg:text-2xl text-white max-w-2xl mx-auto">
+          Cinematographer/Director of Photography
+        </p>
 
         {/* Contenedor de los botones */}
         <div className="mt-8 flex justify-center space-x-4">
