@@ -14,7 +14,7 @@ export default function AdvertisingPage() {
     const videos = [
         "https://vimeo.com/1056470238",
         "https://vimeo.com/1014448175", // Primer video
-        "https://vimeo.com/997849108",  // Segundo video
+        "https://vimeo.com/1113391730",  // Segundo video
         "https://vimeo.com/916461459",
         "https://vimeo.com/1074805398",  // Tercer video
         "https://vimeo.com/899367654",  // Cuarto video
