@@ -21,7 +21,8 @@ export default function AdvertisingPage() {
         "https://vimeo.com/775634772",  // Quinto video
         "https://vimeo.com/846329663",  // Sexto video
         "https://vimeo.com/826907894",  // Séptimo video  
-        "https://vimeo.com/1011392873"
+        "https://vimeo.com/1011392873",
+        "https://vimeo.com/1134796864"
         // Décimo video
     ];
     const images = [
